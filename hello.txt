@@ -5,3 +5,8 @@ I study at the APU University in Japan
 My hobbies are: reading, chess, looking at the stars and cycling
 
 I want to learn Arabic language after finishing Japanese
+
+
+
+
+Working on the feature 1 (learning the branches)
