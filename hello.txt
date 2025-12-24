@@ -18,3 +18,5 @@ trying out undoing mistakes
 
 Day 2
 Working with pushing into github repository
+
+Everything seems to work perfectly fine
