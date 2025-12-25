@@ -20,3 +20,7 @@ Day 2
 Working with pushing into github repository
 
 Everything seems to work perfectly fine
+
+Day 3
+Couldnt do much today, just revising only
+pushing to keep the streak
