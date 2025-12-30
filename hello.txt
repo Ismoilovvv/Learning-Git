@@ -37,3 +37,6 @@ some more practice
 Day 6
 Larning how to solve merge conflicts with branches
 some more practice
+
+Day somehing, forgot which 
+reviewing everything i learned
